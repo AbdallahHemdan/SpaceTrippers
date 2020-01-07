@@ -59,8 +59,11 @@ The aircraft is running "to infinity and beyond" :runner: so your job is to avoi
 ![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demoGIF.gif)
 
 </div>
+
 ## 📷 Screenshots 
 
+<div name = "demo" align="center" width=1189>
+  
 ![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-1.png)
 ![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-4.png)
 ![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-5.png)
@@ -68,4 +71,5 @@ The aircraft is running "to infinity and beyond" :runner: so your job is to avoi
 ![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-2.png)
 ![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-3.png)
  
+</div>
 
