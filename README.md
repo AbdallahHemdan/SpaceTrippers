@@ -10,10 +10,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/blob/
-master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/A4A/blob/master/LICENSE)
 
 </div>
+
 ---
 
 <p align="center"> 🤖 :rocket: A 3D WebGL interactive game using TypeScript and NodeJS.
@@ -31,13 +31,13 @@ master/LICENSE)
 A 3D space game. Travelling along the space trying to avoid rocks and obstacles. The ship can avoid the rocks by moving right, or left. Collision with the rocks affects its health by decreasing total health by ONE and every second with no collision with the rock your score increase by ONE.
 
 ## 🎥 Demo <div name = "demo" align="center" width=1189>
-![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demoGIF.gif)
-![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-1.png)
-![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-4.png)
-![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-5.png)
-![ImageDemo6](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-6.png)
-![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-2.png)
-![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/Game/demo/demo-img-3.png)
+![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demoGIF.gif)
+![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-1.png)
+![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-4.png)
+![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-5.png)
+![ImageDemo6](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-6.png)
+![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-2.png)
+![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-3.png)
  </div>
 
 ## 🏁 Install <a name = "Install"></a>
