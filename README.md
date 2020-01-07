@@ -10,7 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/SpaceTrippers/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/SpaceTrippers)](https://github.com/AbdallahHemdan/A4A/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/LICENSE)
 
 </div>
 
