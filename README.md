@@ -30,16 +30,6 @@
 ## 🧐 About <a name = "about"></a>
 A 3D space game. Travelling along the space trying to avoid rocks and obstacles. The ship can avoid the rocks by moving right, or left. Collision with the rocks affects its health by decreasing total health by ONE and every second with no collision with the rock your score increase by ONE.
 
-## 🎥 Demo <div name = "demo" align="center" width=1189>
-![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demoGIF.gif)
-![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-1.png)
-![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-4.png)
-![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-5.png)
-![ImageDemo6](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-6.png)
-![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-2.png)
-![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-3.png)
- </div>
-
 ## 🏁 Install <a name = "Install"></a>
 1. Install [Node.js](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/).
 2. Open the folder in Visual Studio Code.
@@ -62,3 +52,14 @@ The aircraft is running "to infinity and beyond" :runner: so your job is to avoi
 - [glMatrix](http://glmatrix.net/) - Javascript Matrix and Vector library.
 - [WebGL](https://get.webgl.org/) - JavaScript API for rendering interactive 3D graphics.
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+
+## 🎥 Demo <div name = "demo" align="center" width=1189>
+![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demoGIF.gif)
+![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-1.png)
+![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-4.png)
+![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-5.png)
+![ImageDemo6](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-6.png)
+![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-2.png)
+![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-3.png)
+ </div>
+
