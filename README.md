@@ -53,13 +53,19 @@ The aircraft is running "to infinity and beyond" :runner: so your job is to avoi
 - [WebGL](https://get.webgl.org/) - JavaScript API for rendering interactive 3D graphics.
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-## 🎥 Demo <div name = "demo" align="center" width=1189>
+## 🎥 Demo 
+<div name = "demo" align="center" width=1189>
+
 ![GIFDemo](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demoGIF.gif)
+
+</div>
+## 📷 Screenshots 
+
 ![ImageDemo1](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-1.png)
 ![ImageDemo4](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-4.png)
 ![ImageDemo5](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-5.png)
 ![ImageDemo6](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-6.png)
 ![ImageDemo2](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-2.png)
 ![ImageDemo3](https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/demo-img-3.png)
- </div>
+ 
 
