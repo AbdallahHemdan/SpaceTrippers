@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gfx Lab</title>
+    <link rel="stylesheet" href="./style.scss">
+</head>
+<body>
+    <div>
+        <canvas width="960" height="540" id="app" tabindex="1">
+            <!-- Here is where we will draw our scene -->
+
+
+        </canvas>
+    </div>
+    <div>
+        <span>Scene: </span>
+        <select name="scenes" id="scenes"></select>
+    </div>
+    <div id="controls"></div>
+    <label style="color: red;" className="control-label">Score: <span id="score"></span></label>
+            <br />
+            <label style="color: red;" className="control-label">Health: <span id="health"></span></label>
+            <span id="over">
+
+            </span>
+    <!-- The following line includes our script which will run WebGL -->
+    <script src="./src/app.ts"></script>
+    <!-- <script>
+        var canvas = document.getElementById("app");
+        let ctx = canvas.getContext("2d");
+        ctx.font = "30px arial";
+        ctx.fillStyle = "red";
+        ctx.textAlign = "center";
+        ctx.fillText("GAME OVER", canvas.width/2, canvas.height/2);
+        
+    
+    </script> -->
+    <!-- <label className="control-label">Score: <span id="score"></span></label>
+    <br />
+    <label className="control-label">Health: <span id="health"></span></label> -->
+</body>
+</html>
