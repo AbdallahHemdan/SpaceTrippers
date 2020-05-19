@@ -6,8 +6,8 @@
   "scripts": {
     "watch": "parcel index.html",
     "build": "parcel build index.html --no-source-maps --no-content-hash --public-url ."
-  },    
-  "start": "node src/app.ts"
+  },
+  "start": "node src/app.ts",
   "start": "node app.js",
   "staticFiles": {
     "staticPath": "static",
@@ -18,15 +18,15 @@
   "devDependencies": {
     "@types/gl-matrix": "^2.4.5",
     "@types/webgl2": "0.0.5",
-    "parcel-bundler": "^1.12.3",
-    "parcel-plugin-static-files-copy": "^2.2.1",
-    "sass": "^1.23.0",
-    "typescript": "^3.7.2"
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.3.1",
+    "sass": "^1.26.5",
+    "typescript": "^3.9.2"
   },
   "dependencies": {
-    "gl-matrix": "^3.1.0",
-    "ts-key-enum": "^2.0.0",
-    "tsx-create-element": "^2.0.0",
-    "webgl-obj-loader": "^2.0.3"
+    "gl-matrix": "^3.3.0",
+    "ts-key-enum": "^2.0.2",
+    "tsx-create-element": "^2.1.0",
+    "webgl-obj-loader": "^2.0.8"
   }
 }
