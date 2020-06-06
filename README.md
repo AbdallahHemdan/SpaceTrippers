@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=400px height=210px src="https://github.com/AbdallahHemdan/SpaceTrippers/blob/master/demo/SpaceTrippers.png" alt="SpaceTrippers logo"></a>
+  <a href="https://github.com/AbdallahHemdan/SpaceTrippers" rel="noopener">
+ 
+ ![Space trippers](https://user-images.githubusercontent.com/40190772/83947670-c79f2a80-a818-11ea-954d-d7692cf1c348.png)
+
+   </a>
 </p>
 
 <h3 align="center">Space Trippers</h3>
